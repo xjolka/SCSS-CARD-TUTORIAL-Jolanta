@@ -1,0 +1,24 @@
+{
+  "name": "scss-card-tutorial-jolanta",
+  "version": "1.0.0",
+  "description": "## hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "sass --watch input.scss ./output.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjolka/SCSS-CARD-TUTORIAL-Jolanta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjolka/SCSS-CARD-TUTORIAL-Jolanta/issues"
+  },
+  "homepage": "https://github.com/xjolka/SCSS-CARD-TUTORIAL-Jolanta#readme",
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}
